@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/25727358/README.md)
 # 🤖 Agentic RAG Pipeline
 
 A production-grade Retrieval-Augmented Generation (RAG) pipeline with an agentic controller that decides whether to search documents or answer directly.
